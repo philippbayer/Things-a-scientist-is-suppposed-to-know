@@ -15,6 +15,9 @@ I'm happy to keep on working on this list and I accept PRs/issues.
 * How to know what you want to do in your career
 * How to learn and plan about the different stages of your career
 * How to find a mentor who can guide you through this, and how to work with that mentor
+* How to find jobs/positions
+* How to apply for jobs/positions
+* How to make others create jobs/positions for you (Thanks Bastian Greshake/@gedankenstuecke!)
 
 # Research
 
@@ -177,3 +180,5 @@ Stuff that developed over the last 10, 20 years, and that most funding bodies (*
 * How to use Bayesian statistics instead of frequentist statistics
 
 
+# Misc
+* How to fix your parents' computer (thanks Pierre Lindenbaum/@yokofakun!)
