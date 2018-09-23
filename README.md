@@ -10,6 +10,10 @@ Second note: I am male so there's a whole universe of things women have to learn
 
 I'm happy to keep on working on this list and I accept PRs/issues.
 
+# The main thing
+
+* How to teach yourself anything (thanks Anete Pereira de Souza/@anetepsouza!)
+
 # Career planning
 
 * How to know what you want to do in your career
