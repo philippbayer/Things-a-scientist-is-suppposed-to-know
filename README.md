@@ -10,6 +10,12 @@ Second note: I am male so there's a whole universe of things women have to learn
 
 I'm happy to keep on working on this list and I accept PRs/issues.
 
+# Career planning
+
+* How to know what you want to do in your career
+* How to learn and plan about the different stages of your career
+* How to find a mentor who can guide you through this, and how to work with that mentor
+
 # Research
 
 I think this section aligns well with what the public thinks of scientists.
@@ -114,6 +120,7 @@ Or, how to play the game of academia.
 * How to network at conferences, and make the most out of conferences in general
 * How to find collaborators, and how to approach them
 * How to get a team of international collaborators in different time-zones to contribute to a paper, and how to get them to keep a project alive
+* How to find industry collaborators, and how to keep them happy
 
 # Publishing
 
@@ -133,6 +140,7 @@ A subset of politics...
 # Funding
 
 * How to find funding opportunities
+* How to learn about the 'tricks' each funding opportunity has (ex: In Australia, DECRAs are available 5 years post-PhD, with only tries possible. So everybody applies in the last two years possible to have a track record as good as possible.)
 * How to best apply for funding ('Write what they want do hear, not what you want to do, then take the money and do what you wanted to do in the first place')
 * How to calculate the budget of the funding application
 * How to spend your money the most efficient way
