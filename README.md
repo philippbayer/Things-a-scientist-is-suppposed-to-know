@@ -5,7 +5,7 @@ I'm hoping to use this as a starting point on how to think about what students a
 
 Note: This is a work-in-progress, there's a lot of stuff missing, and I'm only an ECR so there's more in science I haven't seen.
 
-Second note: I am male so there's a whole universe of things women have to learn in science that I am blind to.
+Second note: I am white, heterosexual male so there's a whole universe of things women, minorities, LGBT+, etc. have to learn in science that I am blind to.
 
 
 I'm happy to keep on working on this list and I accept PRs/issues.
@@ -21,7 +21,8 @@ I'm happy to keep on working on this list and I accept PRs/issues.
 * How to find a mentor who can guide you through this, and how to work with that mentor
 * How to find jobs/positions
 * How to apply for jobs/positions
-* How to make others create jobs/positions for you (Thanks Bastian Greshake/@gedankenstuecke!)
+* How to make others create jobs/positions for you 
+(Thanks Bastian Greshake/@gedankenstuecke for the missed job hunt-related Hows!)
 
 # Research
 
@@ -147,7 +148,7 @@ A subset of politics...
 # Funding
 
 * How to find funding opportunities
-* How to learn about the 'tricks' each funding opportunity has (ex: In Australia, DECRAs are available 5 years post-PhD, with only tries possible. So everybody applies in the last two years possible to have a track record as good as possible.)
+* How to learn about the 'tricks' each funding opportunity has (ex: In Australia, DECRAs are available 5 years post-PhD, with only 2 tries possible. So everybody applies in the last two years possible to have a track record as good as possible.)
 * How to best apply for funding ('Write what they want do hear, not what you want to do, then take the money and do what you wanted to do in the first place')
 * How to calculate the budget of the funding application
 * How to spend your money the most efficient way
@@ -184,5 +185,5 @@ Stuff that developed over the last 10, 20 years, and that most funding bodies (*
 * How to use Bayesian statistics instead of frequentist statistics
 
 
-# Misc
+# The rest :)
 * How to fix your parents' computer (thanks Pierre Lindenbaum/@yokofakun!)
