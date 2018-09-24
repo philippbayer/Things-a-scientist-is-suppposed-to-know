@@ -112,6 +112,18 @@ I explicitly split this up from teaching as it's a completely different skill-se
 * How to write letters of recommendation/references for your past lab members (thanks Archa Fox/@AFox_Perth!)
 
 
+# Communication skills
+
+This section comes from David Eccles/@gringene_bio, slightly amended. Thank you!
+
+* How to listen
+* How to respect the opinions of others
+* How to recognise bullshit
+* How to boost people who are not being listened to
+* How to complain, how to handle complaints
+* How to give people good/the right amount of choices
+* How to distinguish deliberate from accidental silence
+
 # Politics
 
 Or, how to play the game of academia.
