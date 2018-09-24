@@ -3,9 +3,11 @@ I've realised that the general public doesn't really know what scientists do day
 
 I'm hoping to use this as a starting point on how to think about what students are learning at university, and what I teach my PhD/MSc students - I assume all scientists had to self-teach most of this.
 
-Note: This is a work-in-progress, there's a lot of stuff missing, and I'm only an ECR so there's more in science I haven't seen.
+Note: This is a work-in-progress, there's a lot of stuff missing, and I'm only an early career researcher, so there's more in science I haven't seen.
 
 Second note: I am white, heterosexual male so there's a whole universe of things women, minorities, LGBT+, etc. have to learn in science that I am blind to.
+
+Third note: Thanks to my supervisors Prof. Jacqueline Batley and Prof. Dave Edwards without whom I wouldn't know about 80% of the points below.
 
 
 I'm happy to keep on working on this list and I accept PRs/issues.
