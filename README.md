@@ -183,7 +183,7 @@ Stuff that developed over the last 10, 20 years, and that most funding bodies (*
 
 * How to do open science
 * How to do reproducible science and its many subfields (version control, containers, etc. pp.)
-* How to use Bayesian statistics instead of frequentist statistics
+* How to not stubbornly cling to one approach over all other possible approaches (thanks Sebastian Raschka/@rasbt!)
 
 
 # The rest :)
