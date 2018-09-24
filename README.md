@@ -142,6 +142,8 @@ Or, how to play the game of academia.
 * How to find collaborators, and how to approach them
 * How to get a team of international collaborators in different time-zones to contribute to a paper, and how to get them to keep a project alive
 * How to find industry collaborators, and how to keep them happy
+* How to say 'no' (politely?)
+* How to choose in what projects one should/should not get involved in
 
 # Publishing
 
@@ -200,3 +202,4 @@ Stuff that developed over the last 10, 20 years, and that most funding bodies (*
 
 # The rest :)
 * How to fix your parents' computer (thanks Pierre Lindenbaum/@yokofakun!)
+* Where the best coffee is on campus (thanks Lee Hickey/@DrHikov!) along with their opening times
