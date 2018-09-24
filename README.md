@@ -109,6 +109,7 @@ I explicitly split this up from teaching as it's a completely different skill-se
 * How to engage or integrate your students in your group
 * How to make sure your students finish on time
 * How to keep in contact with your students after they finish
+* How to write letters of recommendation/references for your past lab members (thanks Archa Fox/@AFox_Perth!)
 
 
 # Politics
