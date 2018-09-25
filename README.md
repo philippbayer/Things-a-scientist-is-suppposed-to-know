@@ -61,7 +61,7 @@ All papers need accompanying plots to show data.
 * Coming up with good plot designs
 * Knowing how to plot in the chosen programming language (matlab, R, Python...)
 * Knowing how to save the plot in the format the journal requires (600dpi, tiff?!?)
-* How to design a poster for a scientific conference (thanks Dr. Sebastian Kahl/@glialfire!)
+* How to design a poster for a scientific conference (thanks Sebastian Kahl/@glialfire!)
 
 # Presentations
 
@@ -190,7 +190,7 @@ A subset of politics...
 * How to let your own faculty/school know that you exist
 * How to do a radio/press interview (thanks Dr. Katy Turner/@katymeturner!)
 * How to run a press conference
-* How to come up with a short and succinct summary for your research (elevator pitch) (thanks Dr. Sebastian Kahl/@glialfire!)
+* How to come up with a short and succinct summary for your research (elevator pitch) (thanks Sebastian Kahl/@glialfire!)
 
 # Self-care
 
