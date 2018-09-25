@@ -75,6 +75,7 @@ Talking in public!
 * How to chair a symposium/discussion table
 * How to (politely) get speakers to stick to their allocated time, including cutting off
 * How to handle audience questions, as speaker and as chair (thanks to Dr. Alicia Mastretta Yanes/@AliciaMstt for the last three points!)
+* How to identify HDMI/VGA/(Mini) DisplayPort connections and how to get the projector to work with your laptop
 
 # Statistics
 
