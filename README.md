@@ -9,12 +9,13 @@ Second note: I am white, heterosexual male so there's a whole universe of things
 
 Third note: Thanks to my supervisors Prof. Jacqueline Batley and Prof. Dave Edwards without whom I wouldn't know about 80% of the points below.
 
+Fourth note: I tried to thank everyone for their input including their academic title, please let me know if I got something wrong
 
 I'm happy to keep on working on this list and I accept PRs/issues.
 
 # The main thing
 
-* How to teach yourself anything (thanks Anete Pereira de Souza/@anetepsouza!)
+* How to teach yourself anything (thanks Prof. Anete Pereira de Souza/@anetepsouza!)
 
 # Career planning
 
@@ -23,8 +24,8 @@ I'm happy to keep on working on this list and I accept PRs/issues.
 * How to find a mentor who can guide you through this, and how to work with that mentor
 * How to find jobs/positions
 * How to apply for jobs/positions
-* How to make others create jobs/positions for you 
-(Thanks Bastian Greshake/@gedankenstuecke for the missed job hunt-related Hows!)
+* How to make others create jobs/positions for you   
+(Thanks Dr. Bastian Greshake/@gedankenstuecke for the three missed job hunt-related Hows!)
 
 # Research
 
@@ -73,7 +74,7 @@ Talking in public!
 * How to capture your audience
 * How to chair a symposium/discussion table
 * How to (politely) get speakers to stick to their allocated time, including cutting off
-* How to handle audience questions, as speaker and as chair (thanks to Alicia Mastretta Yanes/@AliciaMstt for the last three points!)
+* How to handle audience questions, as speaker and as chair (thanks to Dr. Alicia Mastretta Yanes/@AliciaMstt for the last three points!)
 
 # Statistics
 
@@ -114,12 +115,12 @@ I explicitly split this up from teaching as it's a completely different skill-se
 * How to engage or integrate your students in your group
 * How to make sure your students finish on time
 * How to keep in contact with your students after they finish
-* How to write letters of recommendation/references for your past lab members (thanks Archa Fox/@AFox_Perth!)
+* How to write letters of recommendation/references for your past lab members (thanks Dr. Archa Fox/@AFox_Perth!)
 
 
 # Communication skills
 
-This section comes from David Eccles/@gringene_bio, slightly amended. Thank you!
+This section comes from Dr. David Eccles/@gringene_bio, slightly amended. Thank you!
 
 * How to listen
 * How to respect the opinions of others
@@ -164,7 +165,7 @@ A subset of politics...
 * How to not overload yourself with journal reviews
 * How to start reviewing papers
 * How to become a journal editor, and how to rise as an editor
-* How to deal with the university bureaucracy - reimbursements, travel authorization etc. pp. (thanks Rachel Schwartz/@rachelss!)
+* How to deal with the university bureaucracy - reimbursements, travel authorization etc. pp. (thanks Asst Prof Rachel Schwartz/@rachelss!)
 
 # Funding
 
@@ -185,6 +186,8 @@ A subset of politics...
 * How to use social media to disseminate your research
 * How to let your own university know that you exist
 * How to let your own faculty/school know that you exist
+* How to do a radio/press interview (thanks Dr. Katy Turner/@katymeturner!)
+* How to run a press conference
 
 # Self-care
 
@@ -195,6 +198,8 @@ I believe most scientists fail here. Including me
 * How to recognise your own body's/psyche's warning signs
 * How to work with your own emotions
 * How to keep your personal relationships healthy
+* How to recognise toxic situations, and how to walk away from them (thanks Dr. Paula Martinez/@orchid00!)
+* How to give yourself a break (thanks Dr. Katy Turner/@katymeturner!)
 
 
 # 'Modern' science
@@ -203,9 +208,9 @@ Stuff that developed over the last 10, 20 years, and that most funding bodies (*
 
 * How to do open science
 * How to do reproducible science and its many subfields (version control, containers, etc. pp.)
-* How to not stubbornly cling to one approach over all other possible approaches (thanks Sebastian Raschka/@rasbt!)
+* How to not stubbornly cling to one approach over all other possible approaches (thanks Dr. Sebastian Raschka/@rasbt!)
 
 
 # The rest :)
-* How to fix your parents' computer (thanks Pierre Lindenbaum/@yokofakun!)
-* Where the best coffee is on campus (thanks Lee Hickey/@DrHikov!) along with their opening times
+* How to fix your parents' computer (thanks Dr. Pierre Lindenbaum/@yokofakun!)
+* Where the best coffee is on campus (thanks Dr. Lee Hickey/@DrHikov!) along with their opening times
