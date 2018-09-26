@@ -39,6 +39,7 @@ I think this section aligns well with what the public thinks of scientists.
 * How to find your niche within your field of research (optional?)
 * How to innovate within your niche
 
+
 # Writing
 
 All of the below require different formats, structures, and approaches.
@@ -102,6 +103,7 @@ The regular, day-to-day university-level teaching of BSc, MSc students.
 * How to grade your students
 * How to understand and evaluate your students
 * How to apply what we know about the psychology of teaching in your course
+* How to innovate - flipped classrooms etc. (thanks Dr. Adrian Paterson/@Darwinnernz!)
 
 # Mentoring
 
