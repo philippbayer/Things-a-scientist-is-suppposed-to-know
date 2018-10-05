@@ -37,7 +37,11 @@ I think this section aligns well with what the public thinks of scientists.
 * How to not get lost in the rabbit hole of possible research paths
 * How to keep up with your field of research
 * How to find your niche within your field of research (optional?)
+* How to connect with support groups (Hacky Hours, Meetups, Carpentries Community etc.) (thanks Amanda Miotto/@amandamiotto!)
 * How to innovate within your niche
+* How to design a research lab room, and how to work with the design team for a new lab building (thanks Prof. Andrew Millar/@andrew7millar!)
+* How to commission public art (who knew there's a size limit after which you need more permissions?!?) (thanks Prof. Andrew Millar/@andrew7millar!)
+* How to manage and organise your time, esp. how to prioritise tasks and focus on only one (thanks Jobson Lucas Dias/@lucaspk!)
 
 
 # Writing
@@ -202,9 +206,11 @@ I believe most scientists fail here. Including me
 * How to maintain a work/life balance in face of how long this list here is
 * How to recognise your own body's/psyche's warning signs
 * How to work with your own emotions
+* How to recognise impostor syndrome (thanks Amanda Miotto/@amandamiotto!)
 * How to keep your personal relationships healthy
 * How to recognise toxic situations, and how to walk away from them (thanks Dr. Paula Martinez/@orchid00!)
 * How to give yourself a break (thanks Dr. Katy Turner/@katymeturner!)
+* How to create new habits (thanks Jobson Lucas Dias/@lucaspk!)
 
 
 # 'Modern' science
