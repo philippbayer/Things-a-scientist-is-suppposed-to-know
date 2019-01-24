@@ -180,6 +180,8 @@ A subset of politics...
 * How to find funding opportunities
 * How to learn about the 'tricks' each funding opportunity has (ex: In Australia, DECRAs are available 5 years post-PhD, with only 2 tries possible. So everybody applies in the last 2 years to have a track record as good as possible.)
 * How to best apply for funding ('Write what they want do hear, not what you want to do, then take the money and do what you wanted to do in the first place')
+* How to write any grant (Thanks Vivek Rai/@raivivek!)
+* How to sell yourself/talk yourself up
 * How to calculate the budget of the funding application
 * How to spend research/grant money the most efficient way
 * How to keep your pots of funding straight
