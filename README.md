@@ -93,6 +93,7 @@ How to use stats to make your experiment make sense.
 * How to interpret the test's output
 * How to understand the limitations and the assumptions of your chosen test
 * How to understand what p-values are about
+* How to understand what chi-squared tests are about
 
 # Teaching
 
@@ -213,6 +214,7 @@ I believe most scientists fail here. Including me
 * How to recognise toxic situations, and how to walk away from them (thanks Dr. Paula Martinez/@orchid00!)
 * How to give yourself a break (thanks Dr. Katy Turner/@katymeturner!)
 * How to create new habits (thanks Jobson Lucas Dias/@lucaspk!)
+* How to handle negative feedback
 
 
 # 'Modern' science
